@@ -1,7 +1,18 @@
 body {
     background-color:#efeee7;
-    font: Georgia, "Time New Roman", Times, serif;
+    font: Georgia, "Times New Roman", Times, serif;
     color: #333333;
     margin: 0;
     padding: 0;
   }
+header {
+    background-color: #333333;
+}
+#mainBio {
+    color: gold;
+    font-size: 28px;
+    font-weight: bolder;
+}
+#bioImage {
+    height: 200px;
+}
